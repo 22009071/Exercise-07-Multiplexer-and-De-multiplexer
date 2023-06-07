@@ -64,8 +64,8 @@ Generate RTL realization and timing diagram.
 ```
 /*
 Program for multiplexer  and verify its truth table in quartus using Verilog programming.
-Developed by:H.Berjin Shabeck
-RegisterNumber:  212222240018
+Developed by:kabilan T
+RegisterNumber:  212222230059
 */
 module mux(I0,I1,I2,I3,S0,S1,Y);
 input I0,I1,I2,I3,S0,S1;
@@ -91,8 +91,8 @@ endmodule
 ```
 /*
 Program for demultiplexer  and verify its truth table in quartus using Verilog programming.
-Developed by:H.Berjin Shabeck
-RegisterNumber:  212222240018
+Developed by:kabilan T
+RegisterNumber:  212222230059
 */
 module demux(Y0,Y1,Y2,Y3,S0,S1,I);
 input S0,S1,I;
